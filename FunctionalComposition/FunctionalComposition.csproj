@@ -47,7 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FunctionCatalog.cs" />
     <Compile Include="FunctionExportProvider.cs" />
     <Compile Include="MethodInfoEx.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

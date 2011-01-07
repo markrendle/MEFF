@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEF", "FEF\FEF.csproj", "{5A055689-2ADB-4238-998B-ED173E85B319}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalComposition", "FunctionalComposition\FunctionalComposition.csproj", "{422C95A7-99F9-47F3-8322-806178BE3C05}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalComposition.Test", "FunctionalComposition.Test\FunctionalComposition.Test.csproj", "{92CB6001-2045-4EB8-B380-D3A8C20A079E}"
@@ -27,16 +25,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Debug|x86.ActiveCfg = Debug|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Debug|x86.Build.0 = Debug|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Release|Any CPU.ActiveCfg = Release|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Release|Mixed Platforms.Build.0 = Release|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Release|x86.ActiveCfg = Release|x86
-		{5A055689-2ADB-4238-998B-ED173E85B319}.Release|x86.Build.0 = Release|x86
 		{422C95A7-99F9-47F3-8322-806178BE3C05}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{422C95A7-99F9-47F3-8322-806178BE3C05}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
 		{422C95A7-99F9-47F3-8322-806178BE3C05}.Debug|Mixed Platforms.Build.0 = Debug|x86
